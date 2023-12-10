@@ -1,0 +1,49 @@
+advanc	{doc5.txt=1}
+alien	{doc3.txt=1, doc5.txt=1}
+an	{doc4.txt=1, doc1.txt=1}
+ar	{doc3.txt=1, doc1.txt=1}
+away	{doc3.txt=1}
+bird	{doc1.txt=1}
+blu	{doc4.txt=1, doc1.txt=1}
+breathtak	{doc5.txt=1}
+brow	{doc2.txt=1}
+c	{doc4.txt=1}
+ca	{doc2.txt=1}
+cod	{doc4.txt=1}
+cover	{doc5.txt=1}
+distan	{doc3.txt=1, doc5.txt=1}
+dur	{doc5.txt=1}
+fa	{doc3.txt=1}
+far	{doc3.txt=1}
+fun	{doc4.txt=1}
+galax	{doc3.txt=1}
+glass	{doc2.txt=1}
+hav	{doc5.txt=1}
+i	{doc4.txt=3, doc3.txt=1, doc5.txt=2, doc1.txt=3, doc2.txt=2}
+includ	{doc4.txt=1}
+java	{doc4.txt=1}
+language	{doc4.txt=1}
+liv	{doc3.txt=1}
+morning	{doc4.txt=1}
+mountain	{doc5.txt=1}
+o	{doc3.txt=1, doc2.txt=2}
+plane	{doc5.txt=1}
+planet	{doc3.txt=1}
+programm	{doc4.txt=1}
+provid	{doc5.txt=1}
+python	{doc4.txt=1}
+rai	{doc2.txt=1}
+shining	{doc1.txt=1}
+sing	{doc1.txt=1}
+sk	{doc4.txt=1, doc1.txt=1}
+sleep	{doc2.txt=1}
+sno	{doc5.txt=1}
+su	{doc1.txt=1}
+tapp	{doc2.txt=1}
+technology	{doc5.txt=1}
+th	{doc4.txt=2, doc1.txt=3, doc2.txt=3}
+ther	{doc3.txt=1}
+trees	{doc1.txt=1}
+vie	{doc5.txt=1}
+windowsill	{doc2.txt=1}
+winter	{doc5.txt=1}
