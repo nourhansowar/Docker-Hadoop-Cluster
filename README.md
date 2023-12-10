@@ -91,6 +91,10 @@ Once the job completes, you can retrieve the output from HDFS using the followin
 ```
 hdfs dfs -get /output <local-output-directory>
 ```
+The output file is part-r-000
+
+![image](https://github.com/nourhansowar/Docker-Hadoop-Cluster/assets/48545560/610af001-5659-4552-8c5e-78fbc95a656f)
+
 
 Replace `<local-output-directory>` with the desired path on your local machine to store the output.
 
